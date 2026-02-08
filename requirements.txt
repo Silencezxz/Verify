@@ -1,5 +1,9 @@
 Flask==2.3.3
 requests==2.31.0
 python-dotenv
+requests
+discord.py  # se usar Discord
+psycopg2-binary  # se usar Supabase/DB
+
 
 
